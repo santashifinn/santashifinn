@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi! I'm Pip/Santashi. 🦇💖
+
+I’m currently learning JavaScript. 🙇
+
+I like writing stories, drawing, hiking and playing games. 📚📝🎨🥾🎲🎮
 
 <!--
 **santashifinn/santashifinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
