@@ -1,10 +1,10 @@
 # Hi! I'm Pip/Santashi. 🦇💖
 
-I’m currently learning JavaScript. 🙇
+I’m currently learning JavaScript via the excellent Northcoders bootcamp. 🙇
 
 I speak English 🇬🇧 (native), Japanese 🇯🇵, Latin 📜 and Ancient Greek 📜 (intermediate) and I'm learning German 🇩🇪.
 
-I like writing stories 📚📝, drawing 🎨, hiking 🥾 and playing games 🎲🎮.
+In my spare time I like writing stories 📚📝, drawing 🎨, hiking 🥾 and playing games 🎲🎮.
 
 <!--
 **santashifinn/santashifinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
