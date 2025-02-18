@@ -1,6 +1,6 @@
 # Hi! I'm Pip/Santashi. 🦇💖
 
-I’m currently learning JavaScript via the excellent Northcoders bootcamp. 🙇
+I recently learned JavaScript via the excellent Northcoders bootcamp. 🙇
 
 I speak English 🇬🇧 (native), Japanese 🇯🇵, Latin 📜 and Ancient Greek 📜 (intermediate) and I'm learning German 🇩🇪.
 
