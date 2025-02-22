@@ -3,6 +3,8 @@
 I'm an ![Static Badge](https://img.shields.io/badge/AUTHOR-green?style=flat) and former ![Static Badge](https://img.shields.io/badge/ENGLISH_TEACHER-purple?style=flat) who recently learned ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-blue?style=plastic) via the excellent ![Static Badge](https://img.shields.io/badge/NORTHCODERS-%23eb4034?style=plastic)
  bootcamp.
 
+ My current projects are a tourism website and a simplified portfolio.
+
 ### SKILLS:
 
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-red?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
